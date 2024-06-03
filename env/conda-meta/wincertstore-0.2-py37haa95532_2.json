@@ -1,0 +1,36 @@
+{
+  "build": "py37haa95532_2",
+  "build_number": 2,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.7,<3.8.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\leduc\\anaconda3\\pkgs\\wincertstore-0.2-py37haa95532_2",
+  "files": [
+    "Lib/site-packages/__pycache__/wincertstore.cpython-37.pyc",
+    "Lib/site-packages/wincertstore-0.2-py3.7.egg-info",
+    "Lib/site-packages/wincertstore.py",
+    ".nonadmin"
+  ],
+  "fn": "wincertstore-0.2-py37haa95532_2.conda",
+  "license": "PSF 2",
+  "link": {
+    "source": "C:\\Users\\leduc\\anaconda3\\pkgs\\wincertstore-0.2-py37haa95532_2",
+    "type": 1
+  },
+  "md5": "c81906e16fe22e8c480bfdcea5d58599",
+  "name": "wincertstore",
+  "package_tarball_full_path": "C:\\Users\\leduc\\anaconda3\\pkgs\\wincertstore-0.2-py37haa95532_2.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "ba28e61eab94884bb6aa8dbcf92375c7445ba0d0ba3d14a08a0563cda6432b51",
+  "size": 15625,
+  "subdir": "win-64",
+  "timestamp": 1633019083000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/wincertstore-0.2-py37haa95532_2.conda",
+  "version": "0.2"
+}
